@@ -3,7 +3,8 @@ body{
   background-repeat: no-repeat;
   text-align:center;
   background-size: cover;
-
+  font-family: Arial, Helvetica, sans-serif;
+  height:auto;
 }
 
 h1{
@@ -22,7 +23,7 @@ h1{
   background-color: #333;
 }
 
-.fa:hover {
+.fa a:hover {
   opacity: 0.7;
 }
 
@@ -55,4 +56,5 @@ div{
   border-radius: 100px;
   object-fit: cover;
   border-style: solid;
+
 }

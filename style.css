@@ -1,5 +1,5 @@
 body{
-  background-image: url("images/11038111.jpg");
+  background-image: url("images/11038111.jpg"); 
   background-repeat: no-repeat;
   text-align:center;
   background-size: cover;
@@ -11,8 +11,8 @@ h1{
   font-family:Arial, Helvetica, sans-serif;
 }
 
-.fa {
-  padding: 30px;
+.fa a {
+  padding: 10px;
   font-size: 30px;
   width: 30px;
   text-align: center;
